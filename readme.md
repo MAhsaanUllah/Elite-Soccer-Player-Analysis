@@ -43,13 +43,13 @@ The project was completed entirely in **Google Sheets** using formulas, pivot ta
 
 ## 📸 Dashboard & Visuals
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Pivot Analysis
-![Pivot Analysis](screenshots/pivot_analysis.png)
+![Pivot Analysis](screenshots/Pivot_Analysis.png)
 
 ### Analysis Tab
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/Analysis.png)
 
 ---
 
