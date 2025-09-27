@@ -80,3 +80,15 @@ This project demonstrates:
 - Communicate results visually & professionally  
 
 ✅ Suitable for **Data Analyst / Junior Data Scientist** portfolio.
+
+## ✨ Recruiter Note  
+
+This project highlights my ability to **analyze real-world sports data using spreadsheet-based tools** and turn raw stats into actionable insights.  
+
+- ✅ End-to-end workflow: from **data cleaning** to **dashboard storytelling**  
+- ✅ Built a **custom ranking system** (weighted performance score per 90 mins)  
+- ✅ Used **pivot tables & visual dashboards** for role-wise and league-wise comparisons  
+- ✅ Showcases **attention to detail, analytical thinking, and data visualization**  
+
+📌 This project demonstrates skills relevant for **Data Analyst roles** where Excel/Google Sheets are core tools.  
+It also reflects my ability to explain insights in a way that is **stakeholder-friendly and decision-focused**.  
